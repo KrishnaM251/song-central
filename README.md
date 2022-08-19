@@ -14,6 +14,7 @@ This app is designed to connect artists and record labels by showcasing a song f
 4. Navigate to `server/.env` and insert the connection string your MongoDB cluster generated for you.
 
 ## Demo
+(WARNING: Volume spikes at 1:31)
 https://youtu.be/oJkyrHbaimA
 
 ## Stack 
