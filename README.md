@@ -11,7 +11,7 @@ This app is designed to connect artists and record labels by showcasing a song f
 1. Open two terminals, one navigated to the folder `client`, the other navigated to `server`.
 2. Run `npm install` in both terminals.
 3. Run `npm run start:frontend` for the `client`, and `npm run start:backend` for the `server`. 
-4. Navigate to `server/.env` and insert the connection string your MongoDB cluster generated for you.
+4. Navigate to `"server/.env"` and insert the connection string your MongoDB cluster generated for you.
 
 ## Demo
 (WARNING: Volume spikes at 1:31)
